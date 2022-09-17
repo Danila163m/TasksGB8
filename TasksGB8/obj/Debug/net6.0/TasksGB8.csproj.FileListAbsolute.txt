@@ -1,0 +1,15 @@
+E:\TasksGB8\obj\Debug\net6.0\TasksGB8.csproj.AssemblyReference.cache
+E:\TasksGB8\obj\Debug\net6.0\TasksGB8.GeneratedMSBuildEditorConfig.editorconfig
+E:\TasksGB8\obj\Debug\net6.0\TasksGB8.AssemblyInfoInputs.cache
+E:\TasksGB8\obj\Debug\net6.0\TasksGB8.AssemblyInfo.cs
+E:\TasksGB8\obj\Debug\net6.0\TasksGB8.csproj.CoreCompileInputs.cache
+E:\TasksGB8\bin\Debug\net6.0\TasksGB8.exe
+E:\TasksGB8\bin\Debug\net6.0\TasksGB8.deps.json
+E:\TasksGB8\bin\Debug\net6.0\TasksGB8.runtimeconfig.json
+E:\TasksGB8\bin\Debug\net6.0\TasksGB8.dll
+E:\TasksGB8\bin\Debug\net6.0\TasksGB8.pdb
+E:\TasksGB8\obj\Debug\net6.0\TasksGB8.dll
+E:\TasksGB8\obj\Debug\net6.0\refint\TasksGB8.dll
+E:\TasksGB8\obj\Debug\net6.0\TasksGB8.pdb
+E:\TasksGB8\obj\Debug\net6.0\TasksGB8.genruntimeconfig.cache
+E:\TasksGB8\obj\Debug\net6.0\ref\TasksGB8.dll
